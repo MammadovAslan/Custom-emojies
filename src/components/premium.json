@@ -1,0 +1,44 @@
+[
+  {
+    "id": "valentines",
+    "name": "День святого валентина",
+    "emojis": [
+      {
+        "id": "love_doodle-04",
+        "name": "Lova Doodle 4",
+        "keywords": ["love"],
+        "skins": [{ "src": "/assets/icons/premium/love_doodle-04.svg" }]
+      },
+      {
+        "id": "love_doodle-51",
+        "name": "Lova Doodle 51",
+        "keywords": ["love"],
+        "skins": [{ "src": "/assets/icons/premium/love_doodle-51.svg" }]
+      },
+      {
+        "id": "love_set-04",
+        "name": "Lova set 4",
+        "keywords": ["love"],
+        "skins": [{ "src": "/assets/icons/premium/love_set-16.svg" }]
+      },
+      {
+        "id": "love_set-12",
+        "name": "Lova Set 12",
+        "keywords": ["love"],
+        "skins": [{ "src": "/assets/icons/premium/love_set-12.svg" }]
+      },
+      {
+        "id": "love_doodle-63",
+        "name": "Lova doodle 63",
+        "keywords": ["love"],
+        "skins": [{ "src": "/assets/icons/premium/love_doodle-63.svg" }]
+      },
+      {
+        "id": "love_set-06",
+        "name": "Lova set 06",
+        "keywords": ["love"],
+        "skins": [{ "src": "/assets/icons/premium/love_set-06.svg" }]
+      }
+    ]
+  }
+]
