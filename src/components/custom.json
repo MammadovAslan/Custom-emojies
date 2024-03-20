@@ -25,45 +25,20 @@
     ]
   },
   {
-    "id": "grinning",
-    "name": "grinning Face",
+    "id": "people",
+    "name": "people",
     "emojis": [
       {
         "id": "grinning",
-        "name": "Grinning Face",
+        "name": "Grinning Face with big",
         "keywords": ["smile", "happy", "joy", ":D", "grin"],
-        "skins": [{ "src": "/assets/icons/standart/grinning-squinting-face.svg" }],
-        "native": "😜"
-      }
-    ]
-  },
-  {
-    "id": "valentines",
-    "name": "День святого валентина",
-    "emojis": [
-      {
-        "id": "love_doodle-04",
-        "name": "Lova Doodle 4",
-        "keywords": ["love"],
-        "skins": [{ "src": "/public/assets/icons/premium/love_doodle-04.svg" }]
+        "skins": [{ "src": "/assets/icons/standart/grinning-face-with-big-eyes.svg" }]
       },
       {
-        "id": "love_doodle-51",
-        "name": "Lova Doodle 51",
-        "keywords": ["love"],
-        "skins": [{ "src": "/public/assets/icons/premium/love_doodle-51.svg" }]
-      },
-      {
-        "id": "love_set-04",
-        "name": "Lova set 4",
-        "keywords": ["love"],
-        "skins": [{ "src": "/public/assets/icons/premium/love_set-16.svg" }]
-      },
-      {
-        "id": "love_set-12",
-        "name": "Lova Set 12",
-        "keywords": ["love"],
-        "skins": [{ "src": "/public/assets/icons/premium/love_set-12.svg" }]
+        "id": "smile",
+        "name": "Grinning squinting",
+        "keywords": ["smile", "happy", "joy", ":D", "grin"],
+        "skins": [{ "src": "/assets/icons/standart/grinning-squinting-face.svg" }]
       }
     ]
   }
